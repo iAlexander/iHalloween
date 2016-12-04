@@ -19,7 +19,7 @@ iOS stickers pack ```iHalloween``` is the great bundle of stickers for iMessage,
 
 ##<a name="screenshots"> Screenshots </a>
 
-[![HOMEPOK - Catalog of Ukrainian vehicle plates](https://raw.githubusercontent.com/iAlexander/Homepok/master/Screenshots.jpg)](https://ialexander.me/2e3Zxeh)
+[![HOMEPOK - Catalog of Ukrainian vehicle plates](https://raw.githubusercontent.com/iAlexander/iHalloween/master/Screenshots.jpg)](https://ialexander.me/2e3ZYpi)
 
 ##<a name="license"> License </a>
 
