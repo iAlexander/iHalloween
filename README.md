@@ -23,7 +23,7 @@ iOS stickers pack ```iHalloween``` is the great bundle of stickers for iMessage,
 
 ##<a name="license"> License: </a>
 
-```iHalloween``` is released under the MIT license. See the ```LICENSE``` file for details  
+```iHalloween``` is released under the MIT license. Check the ```LICENSE``` file for details  
 Copyright © 2016 Alexander Iashchuk, <a href="https://iashchuk.com">iashchuk.com</a>
 
 ##<a name="contact"> Contact: </a>
