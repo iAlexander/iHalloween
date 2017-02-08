@@ -1,8 +1,8 @@
-[![Language](https://img.shields.io/badge/Swift-3.0-orange.svg?style=flat")](https://ialexander.me/2e3ZYpi)
-[![Platform](https://img.shields.io/badge/Platform-iOS 10.0 | iMessage-lightgray.svg?style=flat")](https://ialexander.me/2e3ZYpi)
-[![Devices](https://img.shields.io/badge/Devices-iPhone | iPad-DAA522.svg?style=flat")](https://ialexander.me/2e3ZYpi)
-[![Version](https://img.shields.io/badge/App version-3.0-blue.svg?style=flat")](https://ialexander.me/2e3ZYpi)
-[![AppStore](https://img.shields.io/badge/App Store-Free-brightgreen.svg?style=flat")](https://ialexander.me/2e3ZYpi)
+[![Language](https://img.shields.io/badge/Swift-3.0-orange.svg?style=flat)](https://ialexander.me/2e3ZYpi)
+[![Platform](https://img.shields.io/badge/Platform-iOS 10.0 | iMessage-lightgray.svg?style=flat)](https://ialexander.me/2e3ZYpi)
+[![Devices](https://img.shields.io/badge/Devices-iPhone | iPad-DAA522.svg?style=flat)](https://ialexander.me/2e3ZYpi)
+[![Version](https://img.shields.io/badge/App version-3.0-blue.svg?style=flat)](https://ialexander.me/2e3ZYpi)
+[![AppStore](https://img.shields.io/badge/App Store-Free-brightgreen.svg?style=flat)](https://ialexander.me/2e3ZYpi)
 
 [![iHalloween - bundle of stickers for iMessage chats](https://raw.githubusercontent.com/iAlexander/iHalloween/master/Header.jpg)](https://ialexander.me/2e3ZYpi)
 
