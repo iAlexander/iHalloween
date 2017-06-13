@@ -12,21 +12,21 @@
 3. [License](#license)
 4. [Contact](#contact)
 
-##<a name="description"> Description: </a>
+## <a name="description"> Description: </a>
 
 Prepare your iPhone to be ready for the best Halloween party ever...  
 iOS stickers pack ```iHalloween``` is the great bundle of stickers for iMessage, that includes 36 handcrafted images that are related to Halloween. You will get Halloween banners, scary stickers, pumpkin Jack, zombies, ghosts, masks and a lot of other stickers for your iMessage chats.
 
-##<a name="screenshots"> Screenshots: </a>
+## <a name="screenshots"> Screenshots: </a>
 
 [![iHalloween - bundle of stickers for iMessage chats](https://raw.githubusercontent.com/iAlexander/iHalloween/master/Screenshots.jpg)](https://ialexander.me/2e3ZYpi)
 
-##<a name="license"> License: </a>
+## <a name="license"> License: </a>
 
 ```iHalloween``` is released under the MIT license. Check the ```LICENSE``` file for details.  
 Copyright © 2016 <a href="https://iashchuk.com">Alexander Iashchuk</a>.
 
-##<a name="contact"> Contact: </a>
+## <a name="contact"> Contact: </a>
 
 You can read, follow or drop me a line on my personal Twitter account - [@iAlexander13](https://twitter.com/iAlexander13).  
 If you find any issues on the project, you can open a ticket.  
