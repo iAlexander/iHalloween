@@ -1,7 +1,7 @@
-[![Language](https://img.shields.io/badge/Swift-3.0-orange.svg?style=flat)](#)
+[![Language](https://img.shields.io/badge/Swift-4.0-orange.svg?style=flat)](#)
 [![Platform](https://img.shields.io/badge/iOS-10.0-lightgray.svg?style=flat)](#)
 [![Devices](https://img.shields.io/badge/Devices-iMessage_on_iPhone_and_iPad-green.svg?style=flat)](#)
-[![Version](https://img.shields.io/badge/App_version-3.0-blue.svg?style=flat)](#)
+[![Version](https://img.shields.io/badge/App_version-4.0-blue.svg?style=flat)](#)
 [![AppStore](https://img.shields.io/badge/App_Store-Free-brightgreen.svg?style=flat)](https://ialexander.me/2e3ZYpi)
 
 [![iHalloween - bundle of stickers for iMessage chats](https://raw.githubusercontent.com/iAlexander/iHalloween/master/Header.jpg)](https://ialexander.me/2e3ZYpi)
@@ -24,7 +24,7 @@ iOS stickers pack ```iHalloween``` is the great bundle of stickers for iMessage,
 ## <a name="license"> License: </a>
 
 ```iHalloween``` is released under the MIT license. Check the ```LICENSE``` file for details.  
-Copyright © 2016 <a href="https://iashchuk.com">Alexander Iashchuk</a>.
+Copyright © 2016-2017 <a href="https://iashchuk.com">Alexander Iashchuk</a>.
 
 ## <a name="contact"> Contact: </a>
 
