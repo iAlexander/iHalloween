@@ -15,7 +15,7 @@
 ## <a name="description"> Description: </a>
 
 Prepare your iPhone to be ready for the best Halloween party ever...  
-iOS stickers pack ```iHalloween``` is the great bundle of stickers for iMessage, that includes 36 handcrafted images that are related to Halloween. You will get Halloween banners, scary stickers, pumpkin Jack, zombies, ghosts, masks and a lot of other stickers for your iMessage chats.
+iOS stickers pack ```iHalloween``` is the great bundle of stickers for iMessage, that includes 36 handcrafted images that are related to Halloween. You will get Halloween banners, scary stickers, Count Dracula, Freddy Krueger, Jason, Pumpkin Jack, Scream, zombies, ghosts, masks and a lot of other stickers for your iMessage chats.
 
 ## <a name="screenshots"> Screenshots: </a>
 
