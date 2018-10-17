@@ -1,7 +1,7 @@
 [![Language](https://img.shields.io/badge/Swift-4.0-orange.svg?style=flat)](#)
 [![Platform](https://img.shields.io/badge/iOS-10.0-lightgray.svg?style=flat)](#)
 [![Devices](https://img.shields.io/badge/Devices-iMessage_on_iPhone_and_iPad-green.svg?style=flat)](#)
-[![Version](https://img.shields.io/badge/App_version-4.0-blue.svg?style=flat)](#)
+[![Version](https://img.shields.io/badge/App_version-4.1-blue.svg?style=flat)](#)
 [![AppStore](https://img.shields.io/badge/App_Store-$0.99-brightgreen.svg?style=flat)](https://ialexander.me/2e3ZYpi)
 
 [![iHalloween - bundle of stickers for iMessage chats](https://raw.githubusercontent.com/iAlexander/iHalloween/master/Header.jpg)](https://ialexander.me/2e3ZYpi)
